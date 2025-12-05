@@ -28,7 +28,7 @@ Como líder de equipos de hasta 15 técnicos, implementé un nuevo sistema de co
 ---
 
 ### Contacto
-*   **Email:** [Tapers95@gmail.com](mailto:Tapers95@gmail.com)
+*   **Email:** [scpacktape@gmail.com](mailto:scpacktape@gmail.com)
 *   **GitHub:** [github.com/Tapers95](https://github.com/Tapers95)
 
 # Portafoliocv
