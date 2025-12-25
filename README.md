@@ -1,8 +1,8 @@
-# Portafolio Profesional de Owen Daniel Mendoza Cruz
+# Gestion de programa professional CV Owen Daniel Mendoza Cruz
 
 ### Un Resumen de Logros Clave y Proyectos Destacados
 
-Este portafolio sirve como una extensión de mi CV, ofreciendo una visión más profunda de los resultados tangibles que he generado en mis roles anteriores. Mi enfoque se centra en la optimización de procesos, el liderazgo de equipos y la aplicación de tecnología para resolver problemas complejos.
+Este repositorio como una extensión de mi CV, ofreciendo una visión más profunda de los resultados tangibles que he generado en mis roles anteriores. Mi enfoque se centra en la optimización de procesos, el liderazgo de equipos y la aplicación de tecnología para resolver problemas complejos.
 
 ---
 
