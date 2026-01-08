@@ -1,4 +1,4 @@
-# Gestion de programa professional CV Owen Daniel Mendoza Cruz
+# Gestion professional CV Owen Daniel Mendoza Cruz
 
 ### Un Resumen de Logros Clave y Proyectos Destacados
 
@@ -29,4 +29,4 @@ Como líder de equipos de hasta 15 técnicos, implementé un nuevo sistema de co
 *   **GitHub:** [github.com/Tapers95](https://github.com/Tapers95)
 
 # Portafoliocv
-Programa profesional de Owen Daniel Mendoza Cruz, mostrando logros clave en logística, manufactura y tecnología.
+Programa de Owen Daniel Mendoza Cruz, mostrando logros clave en logística, manufactura y tecnología.
